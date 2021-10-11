@@ -261,17 +261,12 @@ a {
   background-color: white;
   color: #555;
 }
-.section.section--about {
-  background-color: white;
-  color: #555;
+.section.section--portfolio {
+  background-color: #ebaa3b;
+  color: #181818;
 }
-.section.section--about svg {
-  fill: #ffba52;
-}
-
-.section.section--pepperhill svg {
-  top: -50px;
-  fill: #3A99D8;
+.section.section--portfolio svg {
+  fill: #ebaa3b;
 }
 .section.section--contact svg {
   fill: white;
